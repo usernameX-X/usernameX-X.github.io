@@ -3,7 +3,7 @@ title: X_X的博客
 SEOTitle: X_X的博客
 header-img: img/post-bg-desk.jpg
 email: 412916295@qq.com
-description: "There is nothing valuable at ALL."
+description: "while(using pc){play Game};"
 keyword: "唱, 跳, rap, 划水, 坑队友, 期末挂科, 宿舍五黑, 比赛打铁"
 url: "https://usernamex-x.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "https://github.com/usernamex-x/qiubaiying.github.io.git" # you cod
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "他们说脱单了就退队，所以依旧刻苦训练。"
-sidebar-avatar: /X.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "/X.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
