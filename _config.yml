@@ -12,7 +12,7 @@ github_repo: "https://github.com/usernamex-x/qiubaiying.github.io.git" # you cod
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "他们说脱单了就退队，所以依旧刻苦训练。"
-sidebar-avatar: /img/x.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /X.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
