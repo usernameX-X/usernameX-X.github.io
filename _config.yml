@@ -97,5 +97,13 @@ service-worker: true
 
 
 # Friends
-friends: [
+friends: [ 
+    {
+        title: "VJudge",
+        href: "https://vjudge.net/user/X_X_X"
+    },{
+        title: "杀马特空间",
+        href: "https://user.qzone.qq.com/412916295/main"
+    }
+]
 
